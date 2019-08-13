@@ -1,0 +1,3 @@
+1)Go to google.
+2)Search whatismyip
+3)Enter your ip in the script. 
